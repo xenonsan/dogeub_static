@@ -1,0 +1,12 @@
+{
+  "name": "dogeub",
+  "version": "1.0.0",
+  "description": "Dogeub education library.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "B5XiAeVc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
